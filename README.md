@@ -67,8 +67,8 @@ Every strategy in this book is built on four core principles:
 
 ## ⚖️ License
 
-*Note: Please specify the license for this manuscript. For public repositories, Creative Commons (e.g., CC BY-NC-SA 4.0) is often recommended for content.*
+[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en) Attribution-NonCommercial-ShareAlike 4.0 International
 
 ---
 
-**© 2026 The Pragmatic Architect.** All rights reserved.
+**© 2026 BleepBl00p** All rights reserved.
